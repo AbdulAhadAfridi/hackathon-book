@@ -11,10 +11,10 @@
 
 **Purpose**: Initialize the Docusaurus project and integrate it with the Spec-Kit Plus workflow.
 
--   [ ] T001 Create Git repository for 'Humanoid Robotics AI Book' (manual, already done)
--   [ ] T002 Initialize Docusaurus project structure: `npx create-docusaurus@latest . classic`
--   [ ] T003 Connect the development environment to GitHub repository (manual configuration)
--   [ ] T004 Confirm Markdown formatting and diagram compatibility by reviewing Docusaurus defaults
+- [x] T001 Create Git repository for 'Humanoid Robotics AI Book' (manual, already done)
+- [x] T002 Initialize Docusaurus project structure: `npx create-docusaurus@latest . classic`
+- [x] T003 Connect the development environment to GitHub repository (manual configuration)
+- [x] T004 Confirm Markdown formatting and diagram compatibility by reviewing Docusaurus defaults
 
 ## Phase 2: Foundational (Book Skeleton & Architecture)
 
