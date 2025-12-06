@@ -34,10 +34,10 @@
 
 ### Implementation for User Story 1
 
--   [ ] T010 [P] [US1] Generate content for `docs/foundations/introduction.md` (800-1500 words)
--   [ ] T011 [P] [US1] Generate content for `docs/foundations/history-evolution.md` (800-1500 words)
--   [ ] T012 [P] [US1] Generate content for `docs/foundations/robot-anatomy.md` (800-1500 words)
--   [ ] T013 [P] [US1] Add Mermaid/ASCII diagrams to `docs/foundations/robot-anatomy.md` (e.g., for DOF)
+- [x] T010 [P] [US1] Generate content for `docs/foundations/introduction.md` (800-1500 words)
+- [x] T011 [P] [US1] Generate content for `docs/foundations/history-evolution.md` (800-1500 words)
+- [x] T012 [P] [US1] Generate content for `docs/foundations/robot-anatomy.md` (800-1500 words)
+- [x] T013 [P] [US1] Add Mermaid/ASCII diagrams to `docs/foundations/robot-anatomy.md` (e.g., for DOF)
 -   [ ] T014 [P] [US1] Add citations to all generated content in `docs/foundations/*.md`
 
 ## Phase 4: User Story 2 - Explore Hardware and Control Systems (Priority: P2)
