@@ -48,11 +48,11 @@
 
 ### Implementation for User Story 2
 
--   [ ] T015 [P] [US2] Generate content for `docs/mechanics/sensors.md` (800-1500 words)
--   [ ] T016 [P] [US2] Generate content for `docs/mechanics/actuators-motors.md` (800-1500 words)
--   [ ] T017 [P] [US2] Generate content for `docs/mechanics/kinematics.md` (800-1500 words)
--   [ ] T018 [P] [US2] Add Mermaid/ASCII diagrams to `docs/mechanics/*.md` (e.g., for kinematics)
--   [ ] T019 [P] [US2] Add citations to all generated content in `docs/mechanics/*.md`
+- [x] T015 [P] [US2] Generate content for `docs/mechanics/sensors.md` (800-1500 words)
+- [x] T016 [P] [US2] Generate content for `docs/mechanics/actuators-motors.md` (800-1500 words)
+- [x] T017 [P] [US2] Generate content for `docs/mechanics/kinematics.md` (800-1500 words)
+- [x] T018 [P] [US2] Add Mermaid/ASCII diagrams to `docs/mechanics/*.md` (e.g., for kinematics)
+- [x] T019 [P] [US2] Add citations to all generated content in `docs/mechanics/*.md`
 -   [ ] T020 [P] [US2] Generate content for `docs/embedded-control/microcontrollers-os.md` (800-1500 words)
 -   [ ] T021 [P] [US2] Generate content for `docs/embedded-control/control-loops.md` (800-1500 words)
 -   [ ] T022 [P] [US2] Generate content for `docs/embedded-control/power-management.md` (800-1500 words)
