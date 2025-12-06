@@ -1,55 +1,65 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+<!--
+SYNC IMPACT REPORT
+
+- **Version Change**: None -> 1.0.0 (Initial ratification)
+- **Modified Principles**: N/A (Initial creation)
+- **Added Sections**:
+  - Core Principles
+  - Key Standards & Constraints
+  - Success Criteria
+  - Governance
+- **Removed Sections**: N/A (Initial creation)
+- **Templates Requiring Updates**:
+  - ✅ .specify/templates/plan-template.md (No updates needed)
+  - ✅ .specify/templates/spec-template.md (No updates needed)
+  - ✅ .specify/templates/tasks-template.md (No updates needed)
+- **Follow-up TODOs**: None
+-->
+# Humanoid Robotics AI Book Constitution
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### I. AI-Native Workflow
+AI-native book creation using a Spec-Driven workflow. Claude Code must be used for iterative chapter development.
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+### II. High Accuracy
+High accuracy with references to robotics, AI, and engineering documentation. All factual claims must be traceable to credible sources.
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+### III. Clarity
+Content must be understandable for beginners while still valuable for intermediate learners. The target writing level is a Flesch-Kincaid grade of 8–10 for clear, simple, and educational text. The tone should be friendly, structured, and practical.
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+### IV. Technical Correctness
+Robotics concepts must be aligned with reputable sources. All factual claims must come from: robotics textbooks, academic papers, official AI/ML framework documentation, or reputable engineering blogs.
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+### V. Modular & Reproducible Development
+Modular, reproducible development is required through Spec-Kit Plus. The project MUST follow the Spec-Kit Plus workflow: Constitution → Specification → Planning → Tasks → Implementation.
 
-### [PRINCIPLE_6_NAME]
+### VI. Docusaurus-Native Formatting
+All content MUST use Docusaurus-compatible Markdown formatting for every chapter to ensure seamless integration and deployment.
 
+### VII. Visual Aids
+Chapters MUST include visual aids where appropriate to explain complex topics. Diagrams must be simple, reproducible, and Markdown-safe, using ASCII diagrams or Mermaid flowcharts for robotics mechanisms, sensors, actuators, and AI pipelines.
 
-[PRINCIPLE__DESCRIPTION]
+## Key Standards & Constraints
 
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
+- **Total Word Count**: 10,000–15,000 words
+- **Chapter Structure**: 10–15 chapters, with each chapter being 800–1500 words.
+- **Plagiarism**: 0% tolerance.
+- **Source Referencing**: All sources must be clearly referenced using APA-style or another Docusaurus-compatible format.
+- **Deployment**: The final book must be deployable to GitHub Pages using the standard Docusaurus build and deploy workflow.
+- **Automation**: All development and content generation instructions must be automatable within the development environment.
 
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
+## Success Criteria
 
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
-
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+- The book “Humanoid Robotics AI Book” builds in Docusaurus without errors.
+- The project is deployed successfully to GitHub Pages.
+- All chapters follow their specifications and meet defined quality standards.
+- All factual claims have traceable and credible sources.
+- The book maintains a consistent structure, tone, and formatting.
+- The final deliverable includes the full Spec-Kit Plus workflow output (constitution, specification, planning, tasks, implementation artifacts).
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
+Amendments to this constitution require documentation, approval, and a migration plan for existing content. All development activities and reviews must verify compliance with these principles.
 
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Version**: 1.0.0 | **Ratified**: 2025-12-06 | **Last Amended**: 2025-12-06
