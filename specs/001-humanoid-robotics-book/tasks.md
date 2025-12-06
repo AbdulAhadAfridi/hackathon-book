@@ -67,26 +67,26 @@
 
 ### Implementation for User Story 3
 
--   [ ] T025 [P] [US3] Generate content for `docs/ai-systems/computer-vision-perception.md` (800-1500 words)
--   [ ] T026 [P] [US3] Generate content for `docs/ai-systems/motion-planning-algorithms.md` (800-1500 words)
--   [ ] T027 [P] [US3] Generate content for `docs/ai-systems/reinforcement-learning.md` (800-1500 words)
--   [ ] T028 [P] [US3] Add Mermaid/ASCII diagrams to `docs/ai-systems/*.md` (e.g., for AI pipelines)
--   [ ] T029 [P] [US3] Add citations to all generated content in `docs/ai-systems/*.md`
--   [ ] T030 [P] [US3] Generate content for `docs/behavior-integration/sensor-fusion.md` (800-1500 words)
--   [ ] T031 [P] [US3] Generate content for `docs/behavior-integration/real-time-decision-systems.md` (800-1500 words)
--   [ ] T032 [P] [US3] Generate content for `docs/behavior-integration/human-robot-interaction.md` (800-1500 words)
--   [ ] T033 [P] [US3] Add Mermaid/ASCII diagrams to `docs/behavior-integration/*.md`
--   [ ] T034 [P] [US3] Add citations to all generated content in `docs/behavior-integration/*.md`
--   [ ] T035 [P] [US3] Generate content for `docs/simulation-testing/platforms.md` (800-1500 words)
--   [ ] T036 [P] [US3] Generate content for `docs/simulation-testing/dataset-generation.md` (800-1500 words)
--   [ ] T037 [P] [US3] Generate content for `docs/simulation-testing/safety-testing-debugging.md` (800-1500 words)
--   [ ] T038 [P] [US3] Add Mermaid/ASCII diagrams to `docs/simulation-testing/*.md`
--   [ ] T039 [P] [US3] Add citations to all generated content in `docs/simulation-testing/*.md`
--   [ ] T040 [P] [US3] Generate content for `docs/applications/healthcare-humanoids.md` (800-1500 words)
--   [ ] T041 [P] [US3] Generate content for `docs/applications/industrial-service-robots.md` (800-1500 words)
--   [ ] T042 [P] [US3] Generate content for `docs/applications/future-trends-challenges.md` (800-1500 words)
--   [ ] T043 [P] [US3] Add Mermaid/ASCII diagrams to `docs/applications/*.md`
--   [ ] T044 [P] [US3] Add citations to all generated content in `docs/applications/*.md`
+- [x] T025 [P] [US3] Generate content for `docs/ai-systems/computer-vision-perception.md` (800-1500 words)
+- [x] T026 [P] [US3] Generate content for `docs/ai-systems/motion-planning-algorithms.md` (800-1500 words)
+- [x] T027 [P] [US3] Generate content for `docs/ai-systems/reinforcement-learning.md` (800-1500 words)
+- [x] T028 [P] [US3] Add Mermaid/ASCII diagrams to `docs/ai-systems/*.md` (e.g., for AI pipelines)
+- [x] T029 [P] [US3] Add citations to all generated content in `docs/ai-systems/*.md`
+- [x] T030 [P] [US3] Generate content for `docs/behavior-integration/sensor-fusion.md` (800-1500 words)
+- [x] T031 [P] [US3] Generate content for `docs/behavior-integration/real-time-decision-systems.md` (800-1500 words)
+- [x] T032 [P] [US3] Generate content for `docs/behavior-integration/human-robot-interaction.md` (800-1500 words)
+- [x] T033 [P] [US3] Add Mermaid/ASCII diagrams to `docs/behavior-integration/*.md`
+- [x] T034 [P] [US3] Add citations to all generated content in `docs/behavior-integration/*.md`
+- [x] T035 [P] [US3] Generate content for `docs/simulation-testing/platforms.md` (800-1500 words)
+- [x] T036 [P] [US3] Generate content for `docs/simulation-testing/dataset-generation.md` (800-1500 words)
+- [x] T037 [P] [US3] Generate content for `docs/simulation-testing/safety-testing-debugging.md` (800-1500 words)
+- [x] T038 [P] [US3] Add Mermaid/ASCII diagrams to `docs/simulation-testing/*.md`
+- [x] T039 [P] [US3] Add citations to all generated content in `docs/simulation-testing/*.md`
+- [x] T040 [P] [US3] Generate content for `docs/applications/healthcare-humanoids.md` (800-1500 words)
+- [x] T041 [P] [US3] Generate content for `docs/applications/industrial-service-robots.md` (800-1500 words)
+- [x] T042 [P] [US3] Generate content for `docs/applications/future-trends-challenges.md` (800-1500 words)
+- [x] T043 [P] [US3] Add Mermaid/ASCII diagrams to `docs/applications/*.md`
+- [x] T044 [P] [US3] Add citations to all generated content in `docs/applications/*.md`
 
 ## Phase 6: Polish & Cross-Cutting Concerns
 
