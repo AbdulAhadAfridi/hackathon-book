@@ -20,10 +20,10 @@
 
 **Purpose**: Establish the core structure of the book, including modules, chapters, and navigation. This is a blocking prerequisite for all content generation.
 
--   [ ] T005 Create module folder structure in `docs/`: `foundations/`, `mechanics/`, `embedded-control/`, `ai-systems/`, `behavior-integration/`, `simulation-testing/`, `applications/`
+- [x] T005 Create module folder structure in `docs/`: `foundations/`, `mechanics/`, `embedded-control/`, `ai-systems/`, `behavior-integration/`, `simulation-testing/`, `applications/`
 -   [ ] T006 Create empty Markdown files for each planned chapter within their respective module folders (referencing `data-model.md`)
--   [ ] T007 Add front-matter (`title`, `description`) to each empty chapter file (referencing `data-model.md`)
--   [ ] T008 Setup `sidebars.js` to match module and chapter structure (referencing `data-model.md`)
+- [x] T007 Add front-matter (`title`, `description`) to each empty chapter file (referencing `data-model.md`)
+- [x] T008 Setup `sidebars.js` to match module and chapter structure (referencing `data-model.md`)
 -   [ ] T009 Add placeholder diagrams (Mermaid / ASCII) in each chapter file
 
 ## Phase 3: User Story 1 - Understand Core Concepts (Priority: P1) 🎯 MVP
