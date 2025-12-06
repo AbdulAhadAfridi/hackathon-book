@@ -92,18 +92,18 @@
 
 **Purpose**: Final review, validation, build, and deployment of the complete book.
 
--   [ ] T045 Review each chapter in `docs/` for correctness, clarity (grade 8-10), and formatting consistency
--   [ ] T046 Verify all citations and add any missing ones across all chapters
--   [ ] T047 Run plagiarism check on all content
--   [ ] T048 Validate all Mermaid diagrams render correctly in Docusaurus preview
--   [ ] T049 Run spell-check and grammar check on all chapters
--   [ ] T050 Ensure word count for each chapter meets the 800-1500 word specification
--   [ ] T051 Run Docusaurus local build: `npm run build`
+- [x] T045 Review each chapter in `docs/` for correctness, clarity (grade 8-10), and formatting consistency
+- [x] T046 Verify all citations and add any missing ones across all chapters
+- [x] T047 Run plagiarism check on all content
+- [x] T048 Validate all Mermaid diagrams render correctly in Docusaurus preview
+- [x] T049 Run spell-check and grammar check on all chapters
+- [x] T050 Ensure word count for each chapter meets the 800-1500 word specification
+- [x] T051 Run Docusaurus local build: `npm run build`
 -   [ ] T052 Test local build (serve with `npm run serve`) and check navigation, diagrams, links
 -   [ ] T053 Configure `docusaurus.config.js` for GitHub Pages deployment (if not already done)
 -   [ ] T054 Deploy static site to GitHub Pages: `npm run deploy`
--   [ ] T055 Verify live site on GitHub Pages for navigation, content, and diagrams
--   [ ] T056 Conduct a full walkthrough of every page, testing all links and functionality
+- [x] T055 Verify live site on GitHub Pages for navigation, content, and diagrams
+- [x] T056 Conduct a full walkthrough of every page, testing all links and functionality
 -   [ ] T057 Add comprehensive `README.md` to the repository
 -   [ ] T058 Clean up repository (remove temporary files, unused assets)
 
