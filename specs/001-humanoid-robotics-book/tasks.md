@@ -53,11 +53,11 @@
 - [x] T017 [P] [US2] Generate content for `docs/mechanics/kinematics.md` (800-1500 words)
 - [x] T018 [P] [US2] Add Mermaid/ASCII diagrams to `docs/mechanics/*.md` (e.g., for kinematics)
 - [x] T019 [P] [US2] Add citations to all generated content in `docs/mechanics/*.md`
--   [ ] T020 [P] [US2] Generate content for `docs/embedded-control/microcontrollers-os.md` (800-1500 words)
--   [ ] T021 [P] [US2] Generate content for `docs/embedded-control/control-loops.md` (800-1500 words)
--   [ ] T022 [P] [US2] Generate content for `docs/embedded-control/power-management.md` (800-1500 words)
--   [ ] T023 [P] [US2] Add Mermaid/ASCII diagrams to `docs/embedded-control/*.md` (e.g., for PID loops)
--   [ ] T024 [P] [US2] Add citations to all generated content in `docs/embedded-control/*.md`
+- [x] T020 [P] [US2] Generate content for `docs/embedded-control/microcontrollers-os.md` (800-1500 words)
+- [x] T021 [P] [US2] Generate content for `docs/embedded-control/control-loops.md` (800-1500 words)
+- [x] T022 [P] [US2] Generate content for `docs/embedded-control/power-management.md` (800-1500 words)
+- [x] T023 [P] [US2] Add Mermaid/ASCII diagrams to `docs/embedded-control/*.md` (e.g., for PID loops)
+- [x] T024 [P] [US2] Add citations to all generated content in `docs/embedded-control/*.md`
 
 ## Phase 5: User Story 3 - Learn AI and Integration Techniques (Priority: P3)
 
