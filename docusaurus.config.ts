@@ -15,7 +15,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://example.com', // TODO: Update with your GitHub Pages domain (e.g., https://<YOUR_GITHUB_USERNAME>.github.io)
+  url: 'https://hackathon-book-umber.vercel.app', // TODO: Update with your GitHub Pages domain (e.g., https://<YOUR_GITHUB_USERNAME>.github.io)
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -51,6 +51,12 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+
+  themes: [
+    // Add any additional themes here
+  ],
+
+  plugins: [],
 
   themeConfig: {
     // Replace with your project's social card

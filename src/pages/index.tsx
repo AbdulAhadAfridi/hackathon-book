@@ -7,6 +7,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
+import RAGChatbot from '../components/RAGChatbot/RAGChatbot';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -25,7 +26,18 @@ function HomepageHeader() {
           </Link>
         </div>
       </div>
+      
     </header>
+  );
+}
+
+function HomepageChatbot() {
+  return (
+    <div className={styles.chatbotSection}>
+      <div className="container">
+        <RAGChatbot />
+      </div>
+    </div>
   );
 }
 
@@ -37,6 +49,7 @@ export default function Home(): ReactNode {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
+        <HomepageChatbot />
         <HomepageFeatures />
       </main>
     </Layout>
